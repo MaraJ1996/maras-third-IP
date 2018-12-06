@@ -1,7 +1,6 @@
 font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
-}
 ul {
     list-style: none;
 }
@@ -24,58 +23,58 @@ p {
     font-family: Arial, Helvetica, sans-serif;
 }
  .quizContainer {
- background-color: darkolivegreen;
- border-radius: 6px;
- width: 65%;
- margin: auto;
- padding-top: 5px;
- -moz-box-shadow: 5px 10px 5px #888;
- box-shadow: 5px 10px 5px #888;
- position: relative;
+    background-color: darkolivegreen;
+    border-radius: 6px;
+    width: 65%;
+    margin: auto;
+    padding-top: 5px;
+    -moz-box-shadow: 5px 10px 5px #888;
+    box-shadow: 5px 10px 5px #888;
+    position: relative;
 }
 .nextButton {
- box-shadow: 5px 5px 5px #888;
- border-radius: 6px;
- width: 175px;
- height: 50px;
- text-align: center;
- background-color: darkseagreen;
- color: azure;
- font-family: Arial, Helvetica, sans-serif;
- position: relative;
- margin: auto;
- padding-top: 20px;
+    box-shadow: 5px 5px 5px #888;
+    border-radius: 6px;
+    width: 175px;
+    height: 50px;
+    text-align: center;
+    background-color: darkseagreen;
+    color: azure;
+    font-family:Arial, Helvetica, sans-serif;
+    position: relative;
+    margin: auto;
+    padding-top: 20px;
 }
 .question {
- font-family:Arial, Helvetica, sans-serif;
- font-size: 2.5em;
- width: 100%;
- height: auto;
- margin: auto;
- border-radius:6px;
- background-color:darkseagreen;
- text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    border-radius: 6px;
+    background-color: darkseagreen;
+    text-align: center;
 }
 .quizMessage {
- background-color: white;
- border-radius: 6px;
- width: 30%;
- margin: auto;
- text-align: center;
- padding: 2px;
- font-family: Arial, Helvetica, sans-serif;
- color: black;
+    background-color: white;
+    border-radius: 6px;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    padding: 2px;
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
 }
 .choiceList {
-  font-family: Arial, Helvetica, sans-serif;
-  color: darkseagreen;
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkseagreen;
 }
 .result {
-  width: 30%;
-  height: auto;
-  border-radius: 6px;
-  background-color: white;
-  margin: auto;
-  text-align: center;
-  font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    height: auto;
+    border-radius: 6px;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
