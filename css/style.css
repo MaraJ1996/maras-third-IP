@@ -25,11 +25,11 @@ p {
 }
  .quizContainer {
  background-color: darkolivegreen;
- border-radius: ;
- width: ;
- margin: ;
- padding-top: ;
- -moz-box-shadow: ;
- box-shadow: ;
- position: ;
+ border-radius: 6px;
+ width: 65%;
+ margin: auto;
+ padding-top: 5px;
+ -moz-box-shadow: 5px 10px 5px #888;
+ box-shadow: 5px 10px 5px #888;
+ position: relative;
 }
