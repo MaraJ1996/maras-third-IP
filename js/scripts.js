@@ -1,21 +1,21 @@
 var questions = [{
-  question:
-  choices:
-  correctAnswer:
+  question:"Question one?"
+  choices:["a","b","c","d"]
+  correctAnswer:1
 },{
-  quesiton:
-  choices:
-  correctAnswer:
+  quesiton:"Question two?"
+  choices:["a","b","c","d"]
+  correctAnswer:2
 },{
-  question:
-  choices:
-  correctAnswer:
+  question:"Question three?"
+  choices:["a","b","c","d"]
+  correctAnswer:1
 },{
-  question:
-  choices:
-  correctAnswer:
+  question:"Question four?"
+  choices:["a","b","c","d"]
+  correctAnswer:0
 },{
-  question:
-  choices:
-  correctAnswer:
+  question:"Question five?"
+  choices:["a","b","c","d"]
+  correctAnswer:0
 }];
