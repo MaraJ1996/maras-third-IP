@@ -31,3 +31,5 @@ $(document).ready(function(){
 
   $(this).find(".nextButton").on("click",function(){
     if(!quizOver){
+
+      value=$("input[type='radio']:checked").val();
