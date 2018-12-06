@@ -28,3 +28,6 @@ $(document).ready(function(){
 
   displayCurrentQuestion();
   $(this).find(".quizMessage").hide();
+
+  $(this).find(".nextButton").on("click",function(){
+    if(!quizOver){
