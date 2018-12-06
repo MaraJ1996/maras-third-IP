@@ -23,3 +23,8 @@ var questions = [{
 var currentQuestion =0;
 var correctAnswers =0;
 var quizOver =false;
+
+$(document).ready(function(){
+
+  displayCurrentQuestion();
+  $(this).find(".quizMessage").hide();
