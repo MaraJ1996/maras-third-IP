@@ -33,3 +33,14 @@ $(document).ready(function(){
     if(!quizOver){
 
       value=$("input[type='radio']:checked").val();
+
+      if (value == undefined){
+          $(document).find(".quizMessage").text("Select Answer");
+          $(document).find(".quizMessage").show();
+      } else{
+
+        $(document).find(".quizMessage").hide();
+
+        if (value == questions[currentQuestion].correctAnswer){
+            correctAnswers++;
+        }
