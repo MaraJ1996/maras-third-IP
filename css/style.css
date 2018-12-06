@@ -23,4 +23,13 @@ input[type=radio] {
 p {
     font-family: Arial, Helvetica, sans-serif;
 }
- .quizContainer {}
+ .quizContainer {
+ background-color: ;
+ border-radius: ;
+ width: ;
+ margin: ;
+ padding-top: ;
+ -moz-box-shadow: ;
+ box-shadow: ;
+ position: ;
+}
