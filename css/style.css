@@ -33,3 +33,8 @@ p {
  box-shadow: 5px 10px 5px #888;
  position: relative;
 }
+.nextButton {}
+.question {}
+.quizMessage {}
+.choiceList {}
+.result {}
