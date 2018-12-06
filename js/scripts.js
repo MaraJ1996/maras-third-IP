@@ -1,22 +1,22 @@
 var questions = [{
-    question: "Question one?",
-    choices: ["a", "b", "c", "d"],
-    correctAnswer: 1
-}, {
-    question: "Question two?",
-    choices: ["a", "b", "c", "d"],
-    correctAnswer: 2
-}, {
-    question: "Question three?",
-    choices: ["a", "b", "c", "d"],
-    correctAnswer: 1
-}, {
-    question: "Question four?",
-    choices: ["a", "b", "c", "d"],
+    question: "What is a proper naming convention in JavaScript?",
+    choices: ["lowerCase", "CamelCase", "1stNumber", "x"],
     correctAnswer: 0
 }, {
-    question: "Question five?",
-    choices: ["a", "b", "c", "d"],
+    question: "What is a string?",
+    choices: ["A series of numbers in numerical order", "A series of characters inside quotation marks", "More than one decimal occuring in an array", "Letters and numbers occuring in an array"],
+    correctAnswer: 1
+}, {
+    question: "What does the .slice() function do?",
+    choices: ["Cuts the array argument number in half", "Tells you the number of items in the array without a particular element", "Extracts a part of a string and returns the part in a new string", "Cuts out all bugs in syntax"],
+    correctAnswer: 2
+}, {
+    question: "What does the pop() method do?",
+    choices: ["Adds the last used string to the array", "Removes last listed item in an array", "Abbreviates listed items in array", "Removes the item in the array least like the others"],
+    correctAnswer: 1
+}, {
+    question: "What is a Boolean?",
+    choices: ["A data type holding two possible values - true or false", "A tool used to hint bugs in syntax", "A method allowing you to merge existing arrays", "All of the above"],
     correctAnswer: 0
 }];
 
