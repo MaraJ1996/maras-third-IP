@@ -14,3 +14,9 @@ input[type=radio] {
     width: 20px;
     height: 2em;
 }
+/** ex<form>
+      <input type="radio" name="question" value="question 1 of 3">question 1 of 3<br>
+      <input type="radio" name="question" value="question 2 of 3">question 2 of 3<br>
+      <input type="radio" name="question" value="question 3 or 3">question 3 or 3
+      </form>
+**/
