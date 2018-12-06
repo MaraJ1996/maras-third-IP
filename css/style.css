@@ -63,6 +63,8 @@ p {
  margin: auto;
  text-align: center;
  padding: 2px;
+ font-family: Arial, Helvetica, sans-serif;
+ color: black;
 }
 .choiceList {}
 .result {}
