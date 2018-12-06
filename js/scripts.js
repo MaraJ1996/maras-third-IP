@@ -1,1 +1,21 @@
-
+var questions = [{
+  question:
+  choices:
+  correctAnswer:
+},{
+  quesiton:
+  choices:
+  correctAnswer:
+},{
+  question:
+  choices:
+  correctAnswer:
+},{
+  question:
+  choices:
+  correctAnswer:
+},{
+  question:
+  choices:
+  correctAnswer:
+}];
