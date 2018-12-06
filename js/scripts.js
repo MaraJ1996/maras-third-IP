@@ -19,3 +19,7 @@ var questions = [{
   choices:["a","b","c","d"]
   correctAnswer:0
 }];
+
+var currentQuestion =0;
+var correctAnswers =0;
+var quizOver =false;
