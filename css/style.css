@@ -58,6 +58,11 @@ p {
 }
 .quizMessage {
  background-color: white;
+ border-radius: 6px;
+ width: 30%;
+ margin: auto;
+ text-align: center;
+ padding: 2px;
 }
 .choiceList {}
 .result {}
