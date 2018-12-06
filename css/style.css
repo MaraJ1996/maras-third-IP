@@ -70,4 +70,12 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   color: darkseagreen;
 }
-.result {}
+.result {
+  width: 30%;
+  height: auto;
+  border-radius: 6px;
+  background-color: white;
+  margin: auto;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
