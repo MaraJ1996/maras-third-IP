@@ -35,7 +35,7 @@ p {
 }
 .nextButton {
  box-shadow: 5px 5px 5px #888;
- 
+ border-radius: 6px;
 }
 .question {}
 .quizMessage {}
